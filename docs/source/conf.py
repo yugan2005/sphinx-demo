@@ -83,11 +83,10 @@ html_theme = 'sphinx_material'
 #
 html_theme_options = {
     'color_primary': 'blue',
-    'color_accent': 'light-blue',
-    'logo_icon': '&#xe086'
+    'color_accent': 'light-blue'
 }
 
-html_logo = './_static/img/LeetCode.png'
+html_logo = 'img/LeetCode.png'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

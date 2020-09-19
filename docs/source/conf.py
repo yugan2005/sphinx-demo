@@ -90,6 +90,10 @@ html_logo = '_static/images/LeetCode.png'
 
 html_title = project
 html_short_title = project
+html_sidebars = {
+    "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
+}
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

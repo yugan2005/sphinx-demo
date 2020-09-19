@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "python.pythonPath": "/Users/ygan/venv/sphinx/bin/python3",
+    "restructuredtext.confPath": "${workspaceFolder}/docs/source",
+    "restructuredtext.linter.name": "rstcheck"
+}
